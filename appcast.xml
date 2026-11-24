@@ -6,6 +6,14 @@
         <description>Updates for Cue Tab.</description>
         <language>en</language>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Tue, 24 Nov 2026 16:15:36 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/vegardlu/cue-tab-releases/releases/download/v0.1.1/CueTab-0.1.1.dmg" sparkle:edSignature="McjCDLov1392ac4O9dtSkJBBR3tfdA2tsoHo1KmnmrMnp2seSRvZbXsdHkOm3nDH9p/4CFVPLcxkjtmbCUa5Bw==" length="2904211" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Tue, 24 Nov 2026 15:17:56 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
