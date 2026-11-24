@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Cue Tab</title>
+        <link>https://vegardlu.github.io/cue-tab-releases/appcast.xml</link>
+        <description>Updates for Cue Tab.</description>
+        <language>en</language>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 24 Nov 2026 15:17:56 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/vegardlu/cue-tab-releases/releases/download/v0.1.0/CueTab-0.1.0.dmg" sparkle:edSignature="ZZ38HnzpNo69bFdVMYmx2lovsPb9DOpjtmYetf0Ls85yVoTcwBiHGJKYMjyDC6wPgpUZfVg2LRl+R6CXXZzYBQ==" length="2917973" type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
