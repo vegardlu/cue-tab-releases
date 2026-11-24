@@ -3,6 +3,7 @@
 A native ⌘Tab replacement for macOS that lets you pick the exact window — not just the app.
 
 ```
+brew trust --cask vegardlu/cue/cue-tab
 brew install --cask vegardlu/cue/cue-tab
 ```
 
